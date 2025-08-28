@@ -1,12 +1,12 @@
-👋 Hi, I’m @Hafsah06, and I'm on a coding journey to enhance my skills and knowledge!
+👋 Hi, I’m @Hafsah06, and I'm on a learning journey to dive deeper into Artificial Intelligence and Machine Learning!
 
-👀 I’m deeply interested in honing my coding abilities and expanding my understanding of different programming languages and paradigms.
+👀 I’m deeply interested in exploring the latest AI technologies, models, and techniques. 
 
-🌱 I’m currently dedicated to a continuous learning process, focusing on mastering algorithms and data structures, improving problem-solving skills, and staying updated with the latest industry trends.
+🌱 I’m currently dedicated to a continuous learning process, focusing on building AI-powered applications, improving my problem-solving skills, and staying updated with the latest advancements in the field.
 
-💞️ I’m eager to collaborate on projects that provide opportunities for skill development and hands-on experience. If you have any projects, challenges, or ideas to share, I'm all ears!
+💞 I’m eager to collaborate on AI projects that provide opportunities for skill development, innovation, and hands-on experience. If you have any projects, challenges, or ideas to share, I'm all ears!
 
-📫 How to reach me: Feel free to connect with me on GitHub, and let's embark on this coding journey together. You can also reach me via email at [hafsahmirza064@gmail.com].
+📫 How to reach me: Feel free to connect with me on GitHub, and let's embark on this journey together. You can also reach me via email at [hafsahmirza064@gmail.com].
 
 😄 Pronouns: She/Her
 
